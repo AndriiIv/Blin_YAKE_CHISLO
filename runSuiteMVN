@@ -1,0 +1,1 @@
+mvn -DsuiteXmlFile=GoToVolvoC30.xml clean test

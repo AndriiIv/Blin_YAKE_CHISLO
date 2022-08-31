@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Practice Suite">
+   <test name="SearchVolvoC30InGoogle">
+       <classes>
+           <class name="C30.Test.TestHomePage"/>
+           <class name="C30.Test.Test2"/>
+       </classes>
+
+
+    </test> <!-- Test -->
+</suite> <!-- Suite -->
